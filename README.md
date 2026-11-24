@@ -4,8 +4,8 @@ Aplicación web full stack para la gestión de pedidos de comida desarrollada co
 
 ## Enlaces de entrega
 
-- **Repositorio GitHub:** [PEGAR_URL_REPO_GITHUB]
-- **Video de demostración (10 a 15 min):** [PEGAR_URL_VIDEO_PUBLICO]
+- **Repositorio GitHub:** https://github.com/MathiasFlor/FoodStore-TPI
+- **Video de demostración (10 a 15 min):** https://youtu.be/QnGbFJKGpGk
 
 ## Requisitos previos
 
